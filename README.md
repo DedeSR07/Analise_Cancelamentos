@@ -10,13 +10,13 @@ Analisar dados para descobrir quais fatores mais influenciam os cancelamentos en
 - Avaliação do suporte
 - Avaliação da plataforma
 
-- ## Ferramentas usadas
+## Ferramentas usadas
 - Microsoft Excel
 - Tabelas dinâmicas
 - Gráficos (pizza/setor)
 - Fórmulas e métricas personalizadas
 
-- # conclusões
+## conclusões
 - A partir da análise realizada, os fatores que mais influenciam o cancelamento foram:
 - Forma de pagamento
 - Avaliação do suporte

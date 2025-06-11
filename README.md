@@ -20,6 +20,14 @@ Analisar dados para descobrir quais fatores mais influenciam os cancelamentos en
 - A partir da análise realizada, os fatores que mais influenciam o cancelamento foram:
 - Forma de pagamento
 - Avaliação do suporte
--
+
 - Esses dois pontos se destacaram com os maiores valores de impacto, mostrando que melhorias nesses aspectos podem ajudar significativamente a reduzir o número de cancelamentos.
+
+## 📷 Visualizações da Análise
+- 📄 [Base de Dados](imagens/base_dados.png)
+- 📊 [Tabela Dinâmica](imagens/tabela_dinamica.png)
+- 🥧 [Gráfico de Cancelamento](imagens/grafico.png)
+- 📈 [Valor da Informação](imagens/valor_informacao.png)
+
+
 

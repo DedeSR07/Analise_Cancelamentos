@@ -29,5 +29,15 @@ Analisar dados para descobrir quais fatores mais influenciam os cancelamentos en
 - 🥧 [Gráfico de Cancelamento](imagens/grafico.png)
 - 📈 [Valor da Informação](imagens/valor_informacao.png)
 
+## 👨‍💻 Autor
+
+**David Souza Ribeiro**  
+
+---
+
+## 📝 Observações
+
+Este projeto faz parte de um portfólio pessoal com foco em análise de dados com Excel e Power BI.  
+Os dados são fictícios e foram gerados apenas para fins de estudo.
 
 
